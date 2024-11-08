@@ -6,5 +6,5 @@ Hello! I am a Ph.D. candidate in the [Department of Politics](https://politics.p
 
 <p>"<b>Designing an Investment Screening Mechanism</b>"</p>
 
-<p>"<b>Optimal Sanctions Regime</b></p>
+<p>"<b>Optimal Sanctions Regime</b>"</p>
 
