@@ -3,6 +3,4 @@ logo: /assets/img/pic_hz.png
 description: PhD Candidate Department of Politics Princeton University
 show_downloads: false
 google_analytics:
-remote_theme: pages-themes/minmal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
