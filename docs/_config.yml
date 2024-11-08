@@ -1,7 +1,10 @@
 title: Harshal Zalke
 logo: /assets/img/pic_hz.png
-description: PhD Candidate Department 
-  Politics Princeton University
+description: [PhD Candidate 
+  Department of Politics
+  Princeton University]
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
