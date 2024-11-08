@@ -20,10 +20,6 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <p>{{ <b>site.position</b> | default: site.github.project_tagline }}<br>
-        {{ <b>site.department</b> | default: site.github.project_tagline }}<br>
-        {{ <b>site.university</b> | default: site.github.project_tagline }}</p>
         
         <p>{{ Email: site.email | default: site.github.project_tagline }}</p>
 
