@@ -1,5 +1,3 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 Hello! I am a Ph.D. candidate in the department of politics, where I am a fellow in the Program for Quantitative and Analytical Political Science. My research interests lie in the intersection of international finance and global conflict with a methodological focus on game theory and quantitative methods.
 
 [Link to another page](./another-page.html).
