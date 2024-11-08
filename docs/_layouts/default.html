@@ -24,6 +24,7 @@
         <p>{{ site.position | default: site.github.project_tagline }}<br>
         {{ site.department | default: site.github.project_tagline }}<br>
         {{ site.university | default: site.github.project_tagline }}<br>
+        href="{{ "site.email" }}">{{ site.email | default: site.github.repository_name }}
         {{ site.email | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
