@@ -26,9 +26,7 @@
         <p>Email: {{ site.email | default: site.github.project_tagline }}</p>
 
         {% if site.links %}
-        <ul class="downloads">
-          <li><a href="{{ site.links }}"<strong>CV</a></li>
-        </ul>
+          <a href="{{ site.links }}"><b>CV</b></a>
         {% endif %}
 
         {% if site.github.is_project_page %}
