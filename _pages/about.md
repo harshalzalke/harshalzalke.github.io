@@ -29,6 +29,8 @@ latest_posts:
 
 Hello! I am a Ph.D. candidate in the [Department of Politics at Princeton](https://politics.princeton.edu/). I am also a fellow in the program for [Quantitative and Analytical Political Science](https://qaps.princeton.edu/). My research interests broadly lie in Political Economy, Formal Theory, and International Relations. In particular, I study how political risks, including the risk of inter-state conflicts, affect investment decisions. 
 
+You can find my CV here.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
