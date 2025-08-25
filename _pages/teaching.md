@@ -4,6 +4,12 @@ permalink: /teaching/
 title: Teaching
 nav: true
 nav_order: 3
+show_title: false
+
+_styles: >
+  .teach-block { margin-bottom: 1rem; }
+  .teach-title { font-weight: 600; }
+  .teach-meta  { color: #6c757d; }
 ---
 
 ## Princeton University
