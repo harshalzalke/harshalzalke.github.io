@@ -107,10 +107,12 @@ _styles: >
       <a class="btn btn-sm btn-outline-primary" href="{{ p.pdf | relative_url }}" target="_blank">PDF</a>
     {% endif %}
     {% endcomment %}
+    {% comment %}
     <details class="abstract">
       <summary>Abstract</summary>
       <div class="mt-2">{{ p.abstract }}</div>
     </details>
+    {% endcomment %}
   </div>
 </div>
 {% endfor %}
