@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   links: 
     -label: "Email"
-     ur;: "hzalke@princeton.edu"
+     url: "hzalke@princeton.edu"
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
