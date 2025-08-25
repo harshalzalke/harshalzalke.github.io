@@ -9,7 +9,7 @@ profile:
   image: harshal_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    [Email](mailto:hzalke@princeton.edu)
+    Email: <a href="mailto:hzalke@princeton.edu">hzalke@princeton.edu</a>
 #     url: "hzalke@princeton.edu"
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
