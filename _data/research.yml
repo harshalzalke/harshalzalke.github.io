@@ -1,0 +1,42 @@
+working_papers:
+  - title: "Coordinating Development Under Political Risk (Job Market Paper)"
+    authors: "with Mehdi Shadmehr"
+    abstract: >
+      Political risk and coordination failure are two leading causes of low investment.
+      This paper shows how political risk induces miscoordination among investors and
+      proposes an optimal subsidy program — Guaranteed Return with Profit- and Loss-Sharing (GPLS) —
+      that restores efficiency at significantly lower cost than alternatives.
+    # pdf: "/assets/pdf/JMP_Coordinating_Development_Under_Political_Risk.pdf"
+
+  - title: "Strategic Investments Under Geopolitical Risks"
+    authors: ""
+    abstract: >
+      Develops a finite-player global games model to examine how foreign investments
+      interact with the risk of interstate conflict. Highlights the pivotal role of
+      large investors in deterring conflict and explains why firms continue to invest
+      even in high-risk regions.
+    # pdf: "/assets/pdf/Investments_Conflict_3 (9).pdf"
+
+work_in_progress:
+  - title: "Designing an Investment Screening Regime"
+    authors: ""
+    abstract: >
+      Examines the rise of investment screening mechanisms and develops a
+      contract-theoretic model of how governments design optimal screening to
+      mitigate security risks while preserving investment.
+    # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
+
+  - title: "Strategic Substitutes in Global Games"
+    authors: ""
+    abstract: >
+      Extends global games to finite-player settings with strategic substitutes and
+      studies conditions under which payoff asymmetries can generate unique equilibria.
+    # pdf:
+
+  - title: "The Value of Intelligence in Conflict"
+    authors: "with Kris Ramsay"
+    abstract: >
+      Uses a Blotto-style framework to analyze how a defender allocates resources
+      between direct defense and intelligence gathering when facing multiple attackers,
+      highlighting the strategic value of costly intelligence.
+    # pdf: "/assets/pdf/Blotto_2_on_1.pdf"
