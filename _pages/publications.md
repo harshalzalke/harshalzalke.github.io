@@ -32,7 +32,6 @@ details.abstract[open] summary { background: transparent; }
 ## Working Papers
 
 {% assign working_papers = site.data.research.working_papers %}
-<p style="color:#888">Count: {{ working_papers | size }}</p>
 
 {% for p in working_papers %}
 <div class="paper-block">
@@ -58,7 +57,6 @@ details.abstract[open] summary { background: transparent; }
 ## Work in Progress
 
 {% assign wip_papers = site.data.research.work_in_progress %}
-<p style="color:#888">Count: {{ wip_papers | size }}</p>
 
 {% for p in wip_papers %}
 <div class="paper-block">
