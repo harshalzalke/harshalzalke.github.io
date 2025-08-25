@@ -4,22 +4,30 @@ title:
 permalink: /research/
 nav: true
 nav_order: 2
-
-_styles: >
-  .paper-block { margin-bottom: 1.5rem; }
-  .paper-title { font-weight: 600; }
-  .paper-meta  { color: #6c757d; }
-  details.abstract {
-    display: inline-block; margin-left: .5rem;
-  }
-  details.abstract summary {
-    list-style: none; cursor: pointer; display: inline-block;
-    padding: .25rem .5rem; border: 1px solid var(--global-theme-color, #6c757d);
-    border-radius: .25rem; color: var(--global-theme-color, #6c757d);
-    background-color: transparent; font-size: .875rem;
-  }
-  details.abstract[open] summary { background-color: rgba(0,0,0,.03); }
 ---
+
+<style>
+.paper-block { margin-bottom: 1.5rem; }
+.paper-title { font-weight: 600; }
+.paper-meta  { color: #6c757d; }
+
+details.abstract { display: inline-block; margin-left: .5rem; }
+details.abstract summary {
+  list-style: none;
+  cursor: pointer;
+  display: inline;
+  color: #999;
+  font-size: .875rem;
+  font-style: normal;
+}
+details.abstract summary::-webkit-details-marker { display: none; }
+details.abstract summary::before {
+  content: "> ";
+  color: #999;
+  font-style: normal;
+}
+details.abstract[open] summary { background: transparent; }
+</style>
 
 ## Working Papers
 
