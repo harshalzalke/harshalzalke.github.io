@@ -9,9 +9,7 @@ profile:
   image: harshal_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    - label: "Email"
-      url: "hzalke@princeton.edu"
-#    <p>555 your office number</p>
+    [Email](hzalke@princeton.edu)
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
