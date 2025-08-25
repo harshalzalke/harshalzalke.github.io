@@ -2,19 +2,32 @@ working_papers:
   - title: "Coordinating Development Under Political Risk (Job Market Paper)"
     authors: "with Mehdi Shadmehr"
     abstract: >
-      Political risk and coordination failure are two leading causes of low investment.
-      This paper shows how political risk induces miscoordination among investors and
-      proposes an optimal subsidy program — Guaranteed Return with Profit- and Loss-Sharing (GPLS) —
-      that restores efficiency at significantly lower cost than alternatives.
+      Political risk and coordination failure are two leading causes of low investment and growth in low- and middle-income countries. 
+      The international community devotes substantial resources to addressing these challenges. We show that these problems are 
+      intertwined: political risk induces coordination failure. We then propose a subsidy program to eliminate politically induced miscoordination. 
+      Our program---Guaranteed Return with Profit- and Loss-Sharing (GPLS)---offers a minimum return to investors while clawing back returns 
+      above a specified maximum. The design screens out investors who would have invested even without subsidies and induces participation from 
+      more hesitant investors at minimal cost. Optimally designed GPLS programs significantly reduce costs relative to natural alternatives, 
+      such as guaranteed return schemes (e.g., fixed annual payments of $x$ per cent) or Guaranteed Return with Profit-Sharing (GPS) programs. 
+      Such optimal subsidies represent a major step toward feasible and sustainable international interventions to coordinate development under political risk.
     # pdf: "/assets/pdf/JMP_Coordinating_Development_Under_Political_Risk.pdf"
 
   - title: "Strategic Investments Under Geopolitical Risks"
     authors: ""
     abstract: >
-      Develops a finite-player global games model to examine how foreign investments
-      interact with the risk of interstate conflict. Highlights the pivotal role of
-      large investors in deterring conflict and explains why firms continue to invest
-      even in high-risk regions.
+      How do firms account for the risk of war when making their investment decisions? 
+      How sensitive are countries to economic loss due to conflict? 
+      To what extent does global economic exchange deter conflict between countries? 
+      This paper re-visits the pacifying effect of global economic exchange by examining investment behavior in the presence of geopolitical risks. 
+      Much of the existing research on this topic analyzes the relationship between trade and military conflicts, 
+      with scholars divided on whether trade indeed pacifies. However, trade ties adapt to changing geopolitical scenario relatively easily. 
+      On the other hand, foreign investments are more sensitive to changing geopolitical risks as firms stand to suffer 
+      significant losses in the event of conflict. Understanding the relationship between investments and geopolitical risks is, 
+      therefore, crucial for gaining deeper insights about the dynamics between global economic exchange and inter-state conflicts. 
+      This paper employs a formal model to re-examine the pacifying effect of economic ties between countries. 
+      The formal model in this paper accounts for the inherent endogeneity of investment flows to inter-state conflict. 
+      By modeling this endogeneity, this paper provides a framework that more accurately captures how foreign investments affect geopolitical conflicts and, 
+      conversely, how these conflicts shape investment behavior.
     # pdf: "/assets/pdf/Investments_Conflict_3 (9).pdf"
 
 work_in_progress:
