@@ -3,7 +3,7 @@ working_papers:
     label: "(Job Market Paper)"
     coauthors:
       - name: "Mehdi Shadmehr"
-        url: "https://mehdishadmehr.web.unc.edu/"   # replace if you prefer another page
+        url: "https://www.mehdishadmehr.com/"   # replace if you prefer another page
     abstract: >
       Political risk and coordination failure are two leading causes of low investment and growth in low- and middle-income countries. 
       The international community devotes substantial resources to addressing these challenges. We show that these problems are 
@@ -52,7 +52,7 @@ work_in_progress:
   - title: "The Value of Intelligence in Conflict"
     coauthors:
       - name: "Kris Ramsay"
-        url: "https://polisci.princeton.edu/people/kris-ramsay"
+        url: "https://kramsay.scholar.princeton.edu/"
     abstract: >
       Uses a Blotto-style framework to analyze how a defender allocates resources
       between direct defense and intelligence gathering when facing multiple attackers,
