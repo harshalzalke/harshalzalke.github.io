@@ -1,0 +1,37 @@
+princeton:
+  - course: "POL 396: International Organization"
+    level: "Undergraduate"
+    role: "Teaching Assistant"
+    instructor: "Dr. Vreeland"
+    term: "Spring 2024"
+
+  - course: "POL 572: Quantitative Analysis I"
+    level: "Graduate"
+    role: "Teaching Assistant"
+    instructor: "Prof. Titiunik"
+    term: "Spring 2023"
+
+  - course: "POL 573: Quantitative Analysis II"
+    level: "Graduate"
+    role: "Teaching Assistant"
+    instructor: "Prof. Titiunik"
+    term: "Fall 2023"
+
+ut_austin:
+  - course: "FIN 357: Business Finance"
+    level: "Undergraduate"
+    role: "Teaching Assistant"
+    instructor: "Dr. Duvic"
+    term: "2018–2020"
+
+  - course: "STA 380: Mathematical Statistics for Applications"
+    level: "Graduate"
+    role: "Teaching Assistant"
+    instructor: "Dr. Sager"
+    term: "Fall 2017"
+
+  - course: "PHY 103M: Laboratory for Physics"
+    level: "Undergraduate"
+    role: "Teaching Assistant"
+    instructor: ""         # leave blank if you don't want to show "with ..."
+    term: "Spring 2017"
