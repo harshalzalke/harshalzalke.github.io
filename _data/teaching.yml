@@ -1,23 +1,23 @@
-teaching:
-  - institution: Princeton University
-    role: Teaching Assistant
-    courses:
-      - name: POL 345: Introduction to Quantitative Social Science (Undergraduate)
-        term: Fall 2025
-      - name: POL 396: International Organization (Undergraduate)
-        term: Spring 2024
-      - name: POL 572: Quantitative Analysis I (Graduate)
-        term: Spring 2023
-      - name: POL 573: Quantitative Analysis II (Graduate)
-        term: Fall 2023
+- institution: Princeton University
+  role: Teaching Assistant
+  courses:
+    - name: POL 345: Introduction to Quantitative Social Science (Undergraduate)
+      term: Fall 2025
+    - name: POL 396: International Organization (Undergraduate)
+      term: Spring 2024
+    - name: POL 572: Quantitative Analysis I (Graduate)
+      term: Spring 2023
+    - name: POL 573: Quantitative Analysis II (Graduate)
+      term: Fall 2023
 
-  - institution: University of Texas at Austin
-    role: Teaching Assistant
-    courses:
-      - name: FIN 357: Business Finance (Undergraduate)
-        term: 2018–2020
-      - name: STA 380: Mathematical Statistics for Applications (Graduate)
-        term: Fall 2017
-      - name: PHY 103M: Laboratory for Physics (Undergraduate)
-        term: Spring 2017
+- institution: The University of Texas at Austin
+  role: Teaching Assistant
+  courses:
+    - name: FIN 357: Business Finance (Undergraduate)
+      term: 2018-2020
+    - name: STA 380: Mathematical Statistics for Applications (Graduate)
+      term: Fall 2017
+    - name: PHY 103M: Laboratory for Physics (Undergraduate)
+      term: Spring 2017
+
 
