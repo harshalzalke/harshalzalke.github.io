@@ -1,23 +1,38 @@
-- institution: Princeton University
-  role: Teaching Assistant
-  courses:
-    - name: POL 345: Introduction to Quantitative Social Science (Undergraduate)
-      term: Fall 2025
-    - name: POL 396: International Organization (Undergraduate)
-      term: Spring 2024
-    - name: POL 572: Quantitative Analysis I (Graduate)
-      term: Spring 2023
-    - name: POL 573: Quantitative Analysis II (Graduate)
-      term: Fall 2023
+princeton:
+  - course: "POL 396: International Organization"
+    level: "Undergraduate"
+    role: "Teaching Assistant"
+    instructor: "Jim Vreeland"
+    term: "Spring 2024"
 
-- institution: The University of Texas at Austin
-  role: Teaching Assistant
-  courses:
-    - name: FIN 357: Business Finance (Undergraduate)
-      term: 2018-2020
-    - name: STA 380: Mathematical Statistics for Applications (Graduate)
-      term: Fall 2017
-    - name: PHY 103M: Laboratory for Physics (Undergraduate)
-      term: Spring 2017
+  - course: "POL 572: Quantitative Analysis I"
+    level: "Graduate"
+    role: "Teaching Assistant"
+    instructor: "Rocio Titiunik"
+    term: "Spring 2023"
 
+  - course: "POL 573: Quantitative Analysis II"
+    level: "Graduate"
+    role: "Teaching Assistant"
+    instructor: "Rocio Titiunik"
+    term: "Fall 2023"
+
+ut_austin:
+  - course: "FIN 357: Business Finance"
+    level: "Undergraduate"
+    role: "Teaching Assistant"
+    instructor: "Robert Duvic"
+    term: "2018–2020"
+
+  - course: "STA 380: Mathematical Statistics for Applications"
+    level: "Graduate"
+    role: "Teaching Assistant"
+    instructor: "Thomas Sager"
+    term: "Fall 2017"
+
+  - course: "PHY 103M: Laboratory for Physics"
+    level: "Undergraduate"
+    role: "Teaching Assistant"
+    instructor:         # leave blank if you don't want to show "with ..."
+    term: "Spring 2017"
 
