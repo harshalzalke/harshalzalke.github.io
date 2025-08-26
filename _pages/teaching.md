@@ -16,13 +16,14 @@ _styles: |
 ---
 
 ## Princeton University
+<div class="teach-meta"><em>Role: Teaching Assistant</em></div>
 
 {% assign princeton = site.data.teaching.princeton %}
 {% for t in princeton %}
 <div class="teach-block">
   <div class="teach-title">{{ t.course }}</div>
   <div class="teach-meta">
-    {{ t.level }} — {{ t.role }}
+    {{ t.level }}
     {% if t.instructor %} — with {{ t.instructor }}{% endif %}
     {% if t.term %} ({{ t.term }}){% endif %}
   </div>
@@ -32,13 +33,14 @@ _styles: |
 <hr>
 
 ## The University of Texas at Austin
+<div class="teach-meta"><em>Role: Teaching Assistant</em></div>
 
 {% assign utaustin = site.data.teaching.ut_austin %}
 {% for t in utaustin %}
 <div class="teach-block">
   <div class="teach-title">{{ t.course }}</div>
   <div class="teach-meta">
-    {{ t.level }} — {{ t.role }}
+    {{ t.level }}
     {% if t.instructor %} — with {{ t.instructor }}{% endif %}
     {% if t.term %} ({{ t.term }}){% endif %}
   </div>
