@@ -3,10 +3,12 @@ princeton:
     level: "Undergraduate"
     instructor: "Jim Vreeland"
     term: "Spring 2024"
+
   - course: "POL 572: Quantitative Analysis I"
     level: "Graduate"
     instructor: "Rocio Titiunik"
     term: "Spring 2023"
+
   - course: "POL 573: Quantitative Analysis II"
     level: "Graduate"
     instructor: "Rocio Titiunik"
@@ -17,13 +19,15 @@ ut_austin:
     level: "Undergraduate"
     instructor: "Robert Duvic"
     term: "2018-2020"
+
   - course: "STA 380: Mathematical Statistics for Applications"
     level: "Graduate"
     instructor: "Thomas Sager"
     term: "Fall 2017"
+
   - course: "PHY 103M: Laboratory for Physics"
     level: "Undergraduate"
-    instructor: ""         # OK to leave blank
+    instructor: ""
     term: "Spring 2017"
 
 
