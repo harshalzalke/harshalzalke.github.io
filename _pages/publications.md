@@ -5,9 +5,7 @@ permalink: /research/
 nav: true
 nav_order: 2
 show_title: false
----
 
----
 _styles: |
   /* Hide page H1 if the layout ignores `show_title: false` */
   .post-header .post-title { display: none; }
