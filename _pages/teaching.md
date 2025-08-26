@@ -18,31 +18,55 @@ _styles: |
 ## Princeton University
 <div class="teach-meta"><em>Role: Teaching Assistant</em></div>
 
-{% assign princeton = site.data.teaching.princeton %}
-{% for t in princeton %}
-<div class="teach-block">
-  <div class="teach-title">{{ t.course }}</div>
-  <div class="teach-meta">
-    {{ t.level }}
-    {% if t.instructor %} — with {{ t.instructor }}{% endif %}
-    {% if t.term %} ({{ t.term }}){% endif %}
+{% assign d = site.data.teaching %}
+{% if d.princeton %}
+  {% assign princeton = d.princeton %}
+{% elsif d.teaching and d.teaching.princeton %}
+  {% assign princeton = d.teaching.princeton %}
+{% else %}
+  {% assign princeton = nil %}
+{% endif %}
+
+{% if princeton %}
+  {% for t in princeton %}
+  <div class="teach-block">
+    <div class="teach-title">{{ t.course }}</div>
+    <div class="teach-meta">
+      {{ t.level }}
+      {% if t.instructor %} — with {{ t.instructor }}{% endif %}
+      {% if t.term %} ({{ t.term }}){% endif %}
+    </div>
   </div>
-</div>
-{% endfor %}
+  {% endfor %}
+{% else %}
+  <div class="teach-meta">No courses found.</div>
+{% endif %}
 
 <hr>
 
 ## The University of Texas at Austin
 <div class="teach-meta"><em>Role: Teaching Assistant</em></div>
 
-{% assign utaustin = site.data.teaching.ut_austin %}
-{% for t in utaustin %}
-<div class="teach-block">
-  <div class="teach-title">{{ t.course }}</div>
-  <div class="teach-meta">
-    {{ t.level }}
-    {% if t.instructor %} — with {{ t.instructor }}{% endif %}
-    {% if t.term %} ({{ t.term }}){% endif %}
+{% assign d = site.data.teaching %}
+{% if d.ut_austin %}
+  {% assign utaustin = d.ut_austin %}
+{% elsif d.teaching and d.teaching.ut_austin %}
+  {% assign utaustin = d.teaching.ut_austin %}
+{% else %}
+  {% assign utaustin = nil %}
+{% endif %}
+
+{% if utaustin %}
+  {% for t in utaustin %}
+  <div class="teach-block">
+    <div class="teach-title">{{ t.course }}</div>
+    <div class="teach-meta">
+      {{ t.level }}
+      {% if t.instructor %} — with {{ t.instructor }}{% endif %}
+      {% if t.term %} ({{ t.term }}){% endif %}
+    </div>
   </div>
-</div>
-{% endfor %}
+  {% endfor %}
+{% else %}
+  <div class="teach-meta">No courses found.</div>
+{% endif %}
