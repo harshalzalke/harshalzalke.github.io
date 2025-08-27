@@ -19,12 +19,12 @@ working_papers:
     authors: ""
     abstract: > 
        To what extent does global economic exchange deter conflict between countries? This paper re-examines the pacifying effect of economic 
-       ties by examining investment behavior in the presence of geopolitical risks. While investment can deter conflict by raising its opportunity costs, the risk of war also affects firms' willingness to invest. 
-       The central finding is that deterrence depends not on the total volume of investment but on how capital is distributed across firms. 
-       When capital is concentrated in a few large investors, an individual commitment can be pivotal in tipping a government toward peace. 
-       By contrast, when the same amount of capital is dispersed across many smaller firms, individual contributions have negligible influence on government decision.
-       In both cases, firms must coordinate to deter conflict, but the coordination problem increases greatly when capital is dispersed across 
-       many investors, limiting the pacifying effect of investments.
+       ties by examining investment behavior in the presence of geopolitical risks. While investments can deter conflict by raising its opportunity cost, 
+       the risk of war also affects firms' willingness to invest. The central finding is that deterrence depends not on the total volume of investment 
+       but on how capital is distributed across firms. When capital is concentrated in a few large investors, an individual commitment can be pivotal 
+       in tipping a government toward peace. By contrast, when the same amount of capital is dispersed across many smaller firms, individual contributions 
+       have negligible influence on government decision. In both cases, firms must coordinate to deter conflict, but the coordination problem increases 
+       greatly when capital is dispersed across many investors, limiting the pacifying effect of investments.
     # pdf: "/assets/pdf/Investments_Conflict_3 (9).pdf"
 
 work_in_progress:
