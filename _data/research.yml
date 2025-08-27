@@ -17,20 +17,14 @@ working_papers:
 
   - title: "Strategic Investments Under Geopolitical Risks"
     authors: ""
-#    abstract: >
-#      How do firms account for the risk of war when making their investment decisions? 
-#      How sensitive are countries to economic loss due to conflict? 
-#      To what extent does global economic exchange deter conflict between countries? 
-#      This paper re-visits the pacifying effect of global economic exchange by examining investment behavior in the presence of geopolitical risks. 
-#      Much of the existing research on this topic analyzes the relationship between trade and military conflicts, 
-#      with scholars divided on whether trade indeed pacifies. However, trade ties adapt to changing geopolitical scenario relatively easily. 
-#      On the other hand, foreign investments are more sensitive to changing geopolitical risks as firms stand to suffer 
-#      significant losses in the event of conflict. Understanding the relationship between investments and geopolitical risks is, 
-#      therefore, crucial for gaining deeper insights about the dynamics between global economic exchange and inter-state conflicts. 
-#      This paper employs a formal model to re-examine the pacifying effect of economic ties between countries. 
-#      The formal model in this paper accounts for the inherent endogeneity of investment flows to inter-state conflict. 
-#      By modeling this endogeneity, this paper provides a framework that more accurately captures how foreign investments affect geopolitical conflicts and, 
-#      conversely, how these conflicts shape investment behavior.
+    abstract: > 
+       To what extent does global economic exchange deter conflict between countries? This paper re-examines the pacifying effect of economic 
+       ties by examining investment behavior in the presence of geopolitical risks. While investment can deter conflict by raising its opportunity costs, the risk of war also affects firms' willingness to invest. 
+       The central finding is that deterrence depends not on the total volume of investment but on how capital is distributed across firms. 
+       When capital is concentrated in a few large investors, an individual commitment can be pivotal in tipping a government toward peace. 
+       By contrast, when the same amount of capital is dispersed across many smaller firms, individual contributions have negligible influence on government decision.
+       In both cases, firms must coordinate to deter conflict, but the coordination problem increases greatly when capital is dispersed across 
+       many investors, limiting the pacifying effect of investments.
     # pdf: "/assets/pdf/Investments_Conflict_3 (9).pdf"
 
 work_in_progress:
