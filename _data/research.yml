@@ -13,9 +13,9 @@ working_papers:
       more hesitant investors at minimal cost. Optimally designed GPLS programs significantly reduce costs relative to natural alternatives, 
       such as guaranteed return schemes (e.g., fixed annual payments of $x$ per cent) or Guaranteed Return with Profit-Sharing (GPS) programs. 
       Such optimal subsidies represent a major step toward feasible and sustainable international interventions to coordinate development under political risk.
-    # pdf: "/assets/pdf/JMP_Coordinating_Development_Under_Political_Risk.pdf"
+    pdf: "/assets/pdf/JMP_Coordinating_Development_Under_Political_Risk.pdf"
 
-  - title: "Strategic Investments Under Geopolitical Risks"
+  - title: "Strategic Investments and War Prevention"
     authors: ""
     abstract: > 
        To what extent does global economic exchange deter conflict between countries? This paper re-examines the pacifying effect of economic 
@@ -28,20 +28,13 @@ working_papers:
     # pdf: "/assets/pdf/Investments_Conflict_3 (9).pdf"
 
 work_in_progress:
-  - title: "Designing an Investment Screening Regime"
+  - title: "Security Threats and the Screening of Investments"
     authors: ""
     abstract: >
       Examines the rise of investment screening mechanisms and develops a
       contract-theoretic model of how governments design optimal screening to
       mitigate security risks while preserving investment.
     # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
-
-  - title: "Strategic Substitutes in Global Games"
-    authors: ""
-    abstract: >
-      Extends global games to finite-player settings with strategic substitutes and
-      studies conditions under which payoff asymmetries can generate unique equilibria.
-    # pdf:
 
   - title: "The Value of Intelligence in Conflict"
     coauthors:
