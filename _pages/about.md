@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Ph.D. candidate in the [Department of Politics](https://politics.princeton.edu/) at Princeton and a fellow in the program for [Quantitative and Analytical Political Science](https://qaps.princeton.edu/). My research interests are in Political Economy, Formal Theory, and International Relations. In particular, I study how political risks, including the risk of inter-state conflict, influence firms' investment behavior. 
+Hello! I am a Ph.D. candidate in the [Department of Politics](https://politics.princeton.edu/) at Princeton and a fellow in the program for [Quantitative and Analytical Political Science](https://qaps.princeton.edu/). My research interests are in Political Economy, Formal Theory, and International Relations. In particular, I study how political risks, including the risk of inter-state conflict, interact with firms' investment behavior.
 
 You can find my CV [here](assets/pdf/Harshal_CV.pdf).
