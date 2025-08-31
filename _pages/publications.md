@@ -50,11 +50,9 @@ _styles: |
     {% endif %}
 
     <div class="mt-1">
-      {% comment %}
       {% if p.pdf %}
         <a class="btn btn-sm btn-outline-primary" href="{{ p.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>
       {% endif %}
-      {% endcomment %}
 
       <details class="abstract">
         <summary>Abstract</summary>
