@@ -27,15 +27,22 @@ working_papers:
        greatly when capital is dispersed across many investors, limiting the pacifying effect of investments.
     # pdf: "/assets/pdf/Investments_Conflict_3 (9).pdf"
 
-work_in_progress:
-  - title: "Security Threats and the Screening of Investments"
+     - title: "Security Threats and the Screening of Investments"
     authors: ""
     abstract: >
-      Examines the rise of investment screening mechanisms and develops a
-      contract-theoretic model of how governments design optimal screening to
-      mitigate security risks while preserving investment.
+      What explains the sudden rise in the adoption of investment screening mechanisms? Existing theories focus on either domestic determinants or structural factors, 
+      but they largely overlook the security risks created by inward foreign investments. This project argues that these security factors are central to understanding 
+      why states regulate foreign investments. I present a formal model in which a government designs an optimal screening mechanism to manage security risks 
+      arising from foreign acquisitions of domestic firms. Foreign investors are of two types: commercial investors, who seek purely economic returns, and strategic 
+      investors, who also benefit from undermining the host country’s national security, for example, by acquiring sensitive technologies or eroding domestic industrial capacity. 
+      The government offers a menu of contracts specifying the allowable acquisition share and the intensity of review designed to detect undermining. 
+      A key insight is that the optimal mechanism contains a no-screening contract. Because monitoring is costly, the government does not want to screen all investors. 
+      Instead, the availability of a contract with no monitoring, alongside stricter reviews for larger stakes, induces strategic investors to reveal themselves 
+      by selecting into the no-screening option. This design allows the host country to continue receiving foreign investment, including from strategic investors, while keeping security 
+      risks under control.
     # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
 
+work_in_progress:
   - title: "The Value of Intelligence in Conflict"
     coauthors:
       - name: "Kris Ramsay"
