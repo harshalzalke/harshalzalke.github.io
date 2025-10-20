@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: HarshalZalke_pic.png
+  image: harshal_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     Email: <a href="mailto:hzalke@princeton.edu">hzalke@princeton.edu</a>
