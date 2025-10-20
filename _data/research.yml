@@ -16,6 +16,7 @@ working_papers:
     pdf: "/assets/pdf/JMP_Coordinating_Development_Under_Political_Risk.pdf"
 
   - title: "Strategic Investments and War Prevention"
+    label: "(Dissertation Chapter)"
     authors: ""
     abstract: > 
        To what extent does global economic exchange deter conflict between countries? This paper re-examines the pacifying effect of economic 
@@ -28,6 +29,7 @@ working_papers:
     # pdf: "/assets/pdf/Investments_Conflict_3 (9).pdf"
 
   - title: "Security Threats and the Screening of Investments"
+    label: "(Dissertation Chapter)"
     authors: ""
     abstract: >
       What explains the sudden rise in the adoption of investment screening mechanisms? Existing theories focus on either domestic determinants or structural factors, 
