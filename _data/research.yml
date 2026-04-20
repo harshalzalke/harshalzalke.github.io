@@ -1,6 +1,6 @@
 working_papers:
   - title: "Coordinating Development Under Political Risk"
-    label: "(Job Market Paper)"
+    label: "(Submitted)"
     coauthors:
       - name: "Mehdi Shadmehr"
         url: "https://www.mehdishadmehr.com/"   # replace if you prefer another page
@@ -31,6 +31,20 @@ working_papers:
       government in a better position if relations turn hostile.
     # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
 
+  - title: "Dynamic Screening with Uncertain Loss"
+    label: "(Dissertation Chapter)"
+    authors: ""
+    abstract: >
+      This paper studies a dynamic principal–agent problem in which the principal is uncertain both about the agent’s loyalty and, 
+      conditional on disloyalty, the loss the agent can inflict. The principal controls a one-dimensional stakes variable that raises 
+      the value of the relationship but also increases the potential damage from hidden undermining. The analysis characterizes optimal 
+      commitment policies under uncertainty about loss that two different harm types can inflict. With two possible disloyal types, 
+      the optimal stakes path inolves sequential screening: the lower-harm type is induced to undermine before the higher-harm type, and the stakes path switches 
+      from a low-harm envelope to a high-harm envelope before eventually reaching full stakes. With a continuum of harm types, optimal 
+      policies are organized by a cutoff over harm: low-harm disloyal types may be pooled at the bottom of the screening process, while 
+      more harmful types are screened sequentially over time.
+    # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
+
   - title: "Strategic Investments and War Prevention"
     label: "(Dissertation Chapter)"
     authors: ""
@@ -54,4 +68,14 @@ work_in_progress:
       Uses a Blotto-style framework to analyze how a defender allocates resources
       between direct defense and intelligence gathering when facing multiple attackers,
       highlighting the strategic value of costly intelligence.
+    # pdf: "/assets/pdf/Blotto_2_on_1.pdf"
+
+  - title: "Optimal Sanctions Regime"
+  #  coauthors:
+  #    - name: "Kris Ramsay"
+  #      url: "https://kramsay.scholar.princeton.edu/"
+  #  abstract: >
+  #    Uses a Blotto-style framework to analyze how a defender allocates resources
+  #    between direct defense and intelligence gathering when facing multiple attackers,
+  #    highlighting the strategic value of costly intelligence.
     # pdf: "/assets/pdf/Blotto_2_on_1.pdf"
