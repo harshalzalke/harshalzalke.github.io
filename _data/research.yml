@@ -5,14 +5,12 @@ working_papers:
       - name: "Mehdi Shadmehr"
         url: "https://www.mehdishadmehr.com/"   # replace if you prefer another page
     abstract: >
-      Political risk and coordination failure are two leading causes of low investment and growth in low- and middle-income countries. 
-      The international community devotes substantial resources to addressing these challenges. We show that these problems are 
-      intertwined: political risk induces coordination failure. We then propose a subsidy program to eliminate politically induced miscoordination. 
-      Our program---Guaranteed Return with Profit- and Loss-Sharing (GPLS)---offers a minimum return to investors while clawing back returns 
-      above a specified maximum. The design screens out investors who would have invested even without subsidies and induces participation from 
-      more hesitant investors at minimal cost. Optimally designed GPLS programs significantly reduce costs relative to natural alternatives, 
-      such as guaranteed return schemes (e.g., fixed annual payments of $x$ per cent) or Guaranteed Return with Profit-Sharing (GPS) programs. 
-      Such optimal subsidies represent a major step toward feasible and sustainable international interventions to coordinate development under political risk.
+      Political risk and coordination failure are major barriers to investment and growth in developing countries. 
+      We show that political risk can itself induce coordination failure and propose a subsidy scheme to mitigate 
+      miscoordination. The program guarantees investors a minimum return while clawing back returns above a threshold. 
+      By leveraging strategic complementarities, the clawback screens out investors who would have invested absent subsidies, 
+      while the guarantee attracts those deterred by political risk and strategic uncertainty. Program costs per unit of 
+      capital are single-peaked in available capital for investment, implying economies of scale in subsidy programs.
     pdf: "/assets/pdf/JMP_Coordinating_Development_Under_Political_Risk.pdf"
 
   - title: "Security Threats and the Screening of Investments"
