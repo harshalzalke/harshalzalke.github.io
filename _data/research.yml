@@ -1,6 +1,6 @@
 working_papers:
   - title: "Coordinating Development Under Political Risk"
-    label: "(Submitted)"
+    label: "(Under Review)"
     coauthors:
       - name: "Mehdi Shadmehr"
         url: "https://www.mehdishadmehr.com/"   # replace if you prefer another page
@@ -14,7 +14,7 @@ working_papers:
     pdf: "/assets/pdf/JMP_Coordinating_Development_Under_Political_Risk.pdf"
 
   - title: "Security Threats and the Screening of Investments"
-    label: "(Dissertation Chapter)"
+    label: "(Job Market Paper)"
     authors: ""
     abstract: >
       Governments are increasingly restricting foreign investments on “national security” grounds, yet we lack a clear framework 
@@ -29,22 +29,39 @@ working_papers:
       government in a better position if relations turn hostile.
     # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
 
-  - title: "Dynamic Screening with Uncertain Loss"
+  - title: "Dynamic Screening with Hidden Harm"
     label: "(Dissertation Chapter)"
     authors: ""
     abstract: >
-      This paper studies a dynamic principal–agent problem in which the principal is uncertain both about the agent’s loyalty and, 
-      conditional on disloyalty, the loss the agent can inflict. The principal controls a one-dimensional stakes variable that raises 
-      the value of the relationship but also increases the potential damage from hidden undermining. The analysis characterizes optimal 
-      commitment policies under uncertainty about loss that two different harm types can inflict. With two possible disloyal types, 
-      the optimal stakes path inolves sequential screening: the lower-harm type is induced to undermine before the higher-harm type, and the stakes path switches 
-      from a low-harm envelope to a high-harm envelope before eventually reaching full stakes. With a continuum of harm types, optimal 
-      policies are organized by a cutoff over harm: low-harm disloyal types may be pooled at the bottom of the screening process, while 
-      more harmful types are screened sequentially over time.
+      This paper studies dynamic screening when a bad agent chooses how harmful to become before the relationship begins. A higher harm level makes 
+      future undermining more valuable, but also increases the probability of detection during pre-relationship vetting. Conditional on no warning 
+      signal during vetting, the principal is uncertain about both the agent’s loyalty and the damage potential of a disloyal agent. I first 
+      characterize the optimal contract offered by the principal for an arbitrary distribution over harm levels. With a continuum of harm levels, 
+      the optimal stakes path is given by a screening rule summarized by a moving cutoff: lower-harm bad agents are induced to undermine earlier, 
+      while higher-harm bad agents wait until stakes are higher. I then solve the full game in which the bad agent’s harm choice generates the 
+      posterior screened by the principal. In equilibrium, the bad agent mixes over harm levels, placing an atom at the lowest on-path harm level 
+      and spreading remaining probability mass over higher levels uniformly. The principal's optimal contract screens this distribution over harm levels 
+      in an increasing order.
+    # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
+
+  - title: "The Geopolitics of Investment Screening: How Interstate Rivalry Shapes Market Access"
+    label: "(Dissertation Chapter)"
+    authors: ""
+    abstract: >
+      Why do governments adopt investment screening mechanisms? This paper distinguishes three possible reasons: economic protectionism, 
+      sectoral security, and rivalry-based security. The key challenge is that each logic can produce similar aggregate outcomes making it 
+      difficult to infer the motives driving the adoption of such regulations. I use evidence from the Foreign Investment Risk Review Modernization Act (FIRRMA) of 2018 
+      to address this question. Using deal-level data on acquisitions of U.S. firms by foreign acquirors, I show that Chinese acquisitions decline, 
+      relative to acquisitions by other foreign firms, after FIRRMA, and this relative decline is concentrated most clearly in 
+      data/network/surveillance sectors, with additional evidence for critical infrastructure on the count margin. Event-study estimates show 
+      that the decline in these sectors is connected to the adoption of the screening regulations. The evidence provides limited support for 
+      economic-protectionist or broad sectoral-security explanations. It is more consistent with a rivalry-based logic in which screening effectively 
+      blocks acquisitions when rival-country acquirors target sectors where ownership can grant access, surveillance capacity, disruption risk, or 
+      future leverage.
     # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
 
   - title: "Strategic Investments and War Prevention"
-    label: "(Dissertation Chapter)"
+   # label: "(Dissertation Chapter)"
     authors: ""
     abstract: > 
        To what extent does global economic exchange deter conflict between countries? This paper re-examines the pacifying effect of economic 
