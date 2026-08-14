@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Postdoctoral Scholar in the Department of Political Science at Vanderbilt University. I received my Ph.D. from Princeton University in 2026, where I was a fellow in the program for [Quantitative and Analytical Political Science](https://qaps.princeton.edu/). My research interests are in Political Economy, Formal Theory, and International Relations, with broader connections to Comparative Politics. I study dynamic games of asymmetric information and hidden actions, with applications to foreign-investment screening, economic sanctions, national security and conflict.
+Hello! I am a Postdoctoral Scholar in the Department of Political Science at Vanderbilt University. I received my Ph.D. from Princeton University in 2026, where I was a fellow in the program for [Quantitative and Analytical Political Science](https://qaps.princeton.edu/). My research interests are in Political Economy, Formal Theory, and International Relations, with broader connections to Comparative Politics. My current research focuses on dynamic games of asymmetric information and hidden actions, with applications to foreign-investment screening, economic sanctions, national security and conflict.
 
 
 
