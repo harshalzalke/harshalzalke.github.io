@@ -17,15 +17,15 @@ working_papers:
     label: "(Job Market Paper)"
     authors: ""
     abstract: >
-      Governments are increasingly restricting foreign investments on national security grounds, yet we lack a clear framework for how governments 
-      manage their exposure to foreign firms when geopolitical conditions can deteriorate abruptly. This paper develops a dynamic model in which a 
-      host government values foreign investment but faces the risk that some firms are adversarial: during ``peace," an adversarial firm can 
-      quietly build latent capabilities (e.g., data access, supply-chain dependence) that become harmful if relations turn hostile. This paper 
-      characterizes the government's optimal exposure path and the firm's incentives to build. When geopolitical risk is persistent so that hostility 
-      can arrive at any time, the government may initially restrict exposure and later liberalize even though the risk of hostility remains unchanged 
-      and the firm’s type remains uncertain. The ordering changes when risk is anticipated to begin only after an initial period of peace. The 
-      government, then, may grant full exposure, retrench before the risky period begins, and liberalize again if peace continues. When hostility 
-      occurs at a known date, the final liberalization phase disappears.
+      Governments increasingly restrict foreign investment, arguing that foreign participation in sensitive industries can threaten national security. 
+      We develop a dynamic model of how a host government should manage exposure to foreign firms under geopolitical uncertainty. The government 
+      benefits economically from foreign investment but faces the risk that some firms are covertly adversarial and may build capacity—through data access, 
+      supply-chain dependence, or similar channels—to inflict harm, such as espionage or economic disruption, if relations with the firm’s home country 
+      become hostile. We characterize the government’s optimal access policy, accounting for the adversarial firm’s strategic incentives to build capacity. 
+      When geopolitical relations are initially peaceful but may later turn hostile, optimal exposure is U-shaped over time: the government initially grants 
+      high access, reduces it as the period of potential hostility approaches, and raises it again if hostility does not occur. This pattern contrasts with the 
+      seemingly intuitive policy of restricting access initially and relaxing restrictions after a probationary period. We show that such a probationary 
+      policy is instead optimal when the government expects geopolitical relations to potentially turn hostile in the immediate future.
     # pdf: "/assets/pdf/Designing_Investment_Screening_Paper (1).pdf"
 
   - title: "Dynamic Screening with Hidden Harm"
