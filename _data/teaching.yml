@@ -1,4 +1,9 @@
 princeton:
+  - course: "POL 345: Introduction to Quantitative Social Science"
+    level: "Undergraduate"
+    instructor: "Zeyang (Arthur) Yu"
+    term: "Fall 2025"
+    
   - course: "POL 396: International Organization"
     level: "Undergraduate"
     instructor: "Jim Vreeland"
